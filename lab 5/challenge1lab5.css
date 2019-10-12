@@ -1,0 +1,7 @@
+body{color:white; background-color:white;}
+
+#wrapper{width:1000px; margin:0 auto; background-color:white;}
+
+#head{height:65px; text-align:center; background-color:red; padding:5px;}
+#leftside{float:left; width:1000px; height: 450px; background-color:green; font-size:12px; padding-top:10px;}
+#footer{height:65px; clear:both; background-color:blue; font-size:12px; padding-top:10px;}
