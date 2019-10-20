@@ -1,0 +1,9 @@
+h3 {font-size:45px; color: red; text-transformation: capitalize; Font-family:"times new roman", times, serif;}
+div p {color: red}
+h2,h4 {font-size:25px}
+
+.focus {background-color:black; color: white; margin: 0% 75% 0% 0%; border:red 5px solid;padding: 1px 1px 1px 1px;}
+
+.contentsbar {position:fixed; top:20px; right:20px; background-color:black; color: white; margin: 0% 0% 0% 0%; border:red 5px solid;padding: 1px 1px 1px 1px;}
+.mine {position: absolute; top:7%; left:5px;}
+.for {position: relative; top:8%; left:10px;}
