@@ -1,0 +1,112 @@
+#wrapper{
+    width:1000px;
+    height:2000px;}
+
+#header{
+    width: 900px;
+    height: 200px;
+    background-color: blue;
+    margin: 0 auto;}
+
+   #logo{
+      width: 150px;
+      height: 180px;
+      padding:10px;}
+
+    .nav{
+        width:90px;
+        height:100px;
+        margin:50px 10px 10px 15px;
+        background-color:red;
+        float:right;}
+
+#content2{
+    margin:0 auto;
+    width: 890px;
+    height: 400px;
+    padding:10px 10px 10px 1px;
+    background-color: yellow;}
+
+    .box3{
+      width:400px;
+      height:85px;
+      margin:0px 25px 10px 25px;
+      background-color:red;}
+
+#content3{
+    margin:0 auto;
+    width: 890px;
+    height: 100px;
+    padding:10px 10px 10px 1px;
+    background-color: pink;}
+
+    #welcome{
+        position:absolute;
+        top: 620px;
+        left: 70px;}
+
+    #welcomepara{
+     position:absolute;
+      top: 650px;
+      left: 70px;}
+
+#content4{
+    margin:0 auto;
+    width: 890px;
+    height: 380px;
+    padding:10px 10px 10px 1px;
+    background-color: green;}
+
+    #about{position:absolute;
+    top: 750px;
+    left: 70px;}
+
+    #aboutpara{
+       position:absolute;
+        top: 770px;
+        left: 70px;}
+
+    #services{
+          position:absolute;
+          top: 970px;
+          left: 70px;}
+
+    #servicespara{
+       position:absolute;
+        top: 990px;
+        left: 70px;}
+
+        .picture{
+           width: 250px;
+           height: 180px;
+           margin: 10px 30px 10px 600px;}
+
+#content5{
+   margin:0 auto;
+   width: 890px;
+   height: 300px;
+   padding:10px 10px 10px 1px;
+   background-color: blue;}
+
+   .box{
+       width:270px;
+       height:210px;
+       margin:50px 10px 10px 15px;
+       background-color:red;
+       float:right;}
+
+#content6{
+    margin:0 auto;
+    width: 890px;
+    height: 200px;
+    padding:10px 10px 10px 1px;
+    background-color: yellow;}
+
+    .contact{position:absolute;
+    top: 1457px;
+    left: 70px;}
+
+    .contactpara{
+       position:absolute;
+        top: 1500px;
+        left: 70px;}
