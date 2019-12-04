@@ -1,0 +1,37 @@
+.wrapper{width:1000px;}
+h1,h2,h3,h4,h5,h6 {color:#00008B;}
+/* I got all the coding I didnt know from one place.
+ W3Schools. (2019). How to CSS Code. Retrieved December 3, 2019, from https://www.w3schools.com/cssref/css_colors.asp.
+ This is where I found coding for the color codes, the drop down hover navigation, the order here button and the form/submit button*/
+
+/*Header code*/
+.header {position: relative;  display: block;  width: 1000px;  height: 100px;  margin-right: 0px;  background-color: #28d2d2; font-family: Bitter, serif;}
+.title {color:#00008B; width: 450px;height: 80px;    margin: auto auto 0px;    padding-top: 10px;    padding-bottom: 10px;    background-color: transparent;    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;  font-size: 35px;  line-height: 75px;  text-align: center;  letter-spacing: normal;  text-transform: uppercase;  white-space: normal;}
+.logoimage {position: absolute; left: 0%; top: 0%; right: auto; bottom: auto; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-bottom: 0px;}
+
+.dropdownmenu {position:relative; display:inline-block;}
+.dropdownbut {padding:10px; font-size:22px; position: relative; left:910px; bottom:60px;}
+.contents {background-color:#28d2d2; display:none; position: relative; left:910px; bottom:60px;min-width:80px; font-size: 22px;}
+.contents a {text-decoration: none; display:block;}
+.contents a:hover {background-color:white;}
+.dropdownmenu:hover .contents{display:block;}
+.dropdownmenu:hover .dropdownbut {background-color:white;}
+
+/*Home page code*/
+.box1 {  width: 1000px;  background-color: transparent;}
+.selfimage {border: #28d2d2 solid 5px; float: right;}
+.artistinfo {width: 745px;}
+.artistpara {width: 745px;}
+.para2 {width: 1000px;}
+
+/*Gallery page code*/
+.singletext {color:#00008B; font-size: 22px; padding-top:5px;}
+.setstext{color:#00008B; font-size: 22px; padding-top:5px;}
+.uniquetext {color:#00008B; font-size: 22px; padding-top:5px;}
+
+.namebox{width: 400px;}
+.emailbox{width: 400px;}
+.messagebox {width: 400px;}
+
+/*Footer code*/
+.bottom {width: 1000px;background-color: #28d2d2;}
